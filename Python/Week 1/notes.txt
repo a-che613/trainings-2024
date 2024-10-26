@@ -1,0 +1,28 @@
+
+# Data types in python include:
+
+  1. Numeric Types:
+    - Integer values (int); e.g 10, -3...
+    - Floating-point (float); e.g 2.14, -0.01...
+    - Complex e.g 1+2j...
+  
+  2. Sequence Types:
+    - String, str (a sequence of characters); e.g "hello world"..
+    - List, array (ordered, mutable collection); e.g [1,2,3]...
+    - Tuple (ordered, immutable collection); e.g (1,2,3)...
+  3. Mapping Type:
+    - dict, dictionary, object (a collection of key-value pairs); e.g {"name": "Alex"}...
+
+  4. Set Types:
+    - set (unordered collection of unique elements); e.g {1,2,3}...
+    - frozenset (immutable version of a set)..
+
+  5. Boolean
+
+
+
+  NB: Python is a dynamically typed language, meaning you don't need to explicitly declare the data type of a variable when you create it, python automatically determines the type of a variable based on the value assigned to it at run time. This is opposed to statically typed languages whose variable types need to be specified at compile time.
+
+
+  # Type casting.
+    The process of converting a variable from one data type to another.
